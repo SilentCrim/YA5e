@@ -1,3 +1,6 @@
 Library/PackageCache/*
 Library/Artifacts/*
 Temp/*
+# Library/StateCache/*
+Library/Bee/artifacts/*
+# Library/ScriptAssemblies/*
